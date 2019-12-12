@@ -10,3 +10,4 @@
 1.10. qrtz_simple_triggers：简单触发器的信息。
 1.11. qrtz_trigger_listeners：触发器监听器。
 1.12. qrtz_triggers：触发器的基本信息。
+1.13. job_entity：任务表。
